@@ -15,7 +15,7 @@ import com.geo.util.FileHelper;
 import com.geo.util.MyUtil;
 
 /**
- * 测试usb与pc通信 通过adb端口转发方式
+ * 测试usb与p  c通信 通过adb端口转发方式
  * 
  * @author chl
  * 
